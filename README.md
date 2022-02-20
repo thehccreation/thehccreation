@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @thehccreation
+- 👀 I’m interested in programming, graphic designing, web development and more...
+- 🌱 I’m currently learning web development...
+- 💻 I'm tech geek...
+
+<!---
+thehccreation/thehccreation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
